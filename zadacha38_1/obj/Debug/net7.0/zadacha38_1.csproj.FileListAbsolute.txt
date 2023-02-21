@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\C#_seminar5_dz\zadacha38_1\bin\Debug\net7.0\zadacha38_1.exe
+C:\Users\Анастасия\Desktop\C#_seminar5_dz\zadacha38_1\bin\Debug\net7.0\zadacha38_1.deps.json
+C:\Users\Анастасия\Desktop\C#_seminar5_dz\zadacha38_1\bin\Debug\net7.0\zadacha38_1.runtimeconfig.json
+C:\Users\Анастасия\Desktop\C#_seminar5_dz\zadacha38_1\bin\Debug\net7.0\zadacha38_1.dll
+C:\Users\Анастасия\Desktop\C#_seminar5_dz\zadacha38_1\bin\Debug\net7.0\zadacha38_1.pdb
+C:\Users\Анастасия\Desktop\C#_seminar5_dz\zadacha38_1\obj\Debug\net7.0\zadacha38_1.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\C#_seminar5_dz\zadacha38_1\obj\Debug\net7.0\zadacha38_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\C#_seminar5_dz\zadacha38_1\obj\Debug\net7.0\zadacha38_1.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\C#_seminar5_dz\zadacha38_1\obj\Debug\net7.0\zadacha38_1.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\C#_seminar5_dz\zadacha38_1\obj\Debug\net7.0\zadacha38_1.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\C#_seminar5_dz\zadacha38_1\obj\Debug\net7.0\zadacha38_1.dll
+C:\Users\Анастасия\Desktop\C#_seminar5_dz\zadacha38_1\obj\Debug\net7.0\refint\zadacha38_1.dll
+C:\Users\Анастасия\Desktop\C#_seminar5_dz\zadacha38_1\obj\Debug\net7.0\zadacha38_1.pdb
+C:\Users\Анастасия\Desktop\C#_seminar5_dz\zadacha38_1\obj\Debug\net7.0\zadacha38_1.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\C#_seminar5_dz\zadacha38_1\obj\Debug\net7.0\ref\zadacha38_1.dll
